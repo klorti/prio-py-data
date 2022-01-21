@@ -1,0 +1,5 @@
+name: geo-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
